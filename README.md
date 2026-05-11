@@ -30,8 +30,6 @@ Full-stack application for managing books with user authentication, search, filt
 | 🏷️ Filters | By category, price, rating |
 | 📊 Sorting | By price, rating, date |
 | 📄 Pagination | Split results into pages |
-| ⭐ Favorites | Save favorite cities (in weather app) |
-| 🌓 Dark Mode | Toggle theme |
 
 ---
 
